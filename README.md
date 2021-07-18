@@ -7,4 +7,4 @@ from bs4 import BeautifulSoup as bs <br>
 import time <br>
 import pandas as pd <br>
 
-kalau pengen cari library python <a target="_blank" href="https://pypi.org/project/pip/"> https://pypi.org/project/pip/ </a>
+kalau pengen cari library python silahkan klik link => <a target="_blank" href="https://pypi.org/project/pip/"> https://pypi.org/project/pip/ </a>
